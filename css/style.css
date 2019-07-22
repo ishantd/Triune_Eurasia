@@ -380,13 +380,13 @@ ul {
       left: 0;
       right: 0;
       top: 0;
-      height: 100%;
+      height: 60%;
       bottom: 0;
       z-index: -1; }
     .home_banner_area .banner_inner .banner_content {
       color: #fff; }
       .home_banner_area .banner_inner .banner_content span {
-        font-size: 24px;
+        font-size: 20px;
         color: #fff;
         font-family: "Heebo", sans-serif;
         text-transform: uppercase;
@@ -407,7 +407,7 @@ ul {
         font-family: "Heebo", sans-serif;
         font-weight: 500; }
       .home_banner_area .banner_inner .banner_content .main_btn {
-        margin-top: 35px; }
+        margin-top: 5px; }
 
 .blog_banner {
   min-height: 660px;
@@ -3317,6 +3317,62 @@ h6 {
 
   .dropdown-menu {
     width: 300px !important;
+}
+
+.about-content {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.about-content h1 {
+  color: #e22104;
+}
+
+.about-content p {
+  color: black;
+  margin-bottom: 70px;
+}
+
+.jumbotron-about {
+  background-image: url(../img/banner/jumbotron-about.jpg);
+  color: black;
+}
+
+.aoe-content .main_btn2 {
+  border: 1px solid #e22104 !important;
+}
+
+.aoe-content .card {
+  width: 200px !important;
+  margin: 20px !important;
+  height: 300px !important;
+}
+
+/* .aoe-content .row {
+  padding-left: 180px;
+} */
+
+.aoe-content {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.offshore {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.table-content {
+  margin-bottom: 30px;
+  font-size: 110%;
+}
+.table-content li:hover {
+  color: #d64a34;
+  font-size: 111%;
+  transition: 0.2s;
+}
+.table-heading {
+  color: #d64a34;
 }
 /*---------------------------------------------------- */
 
