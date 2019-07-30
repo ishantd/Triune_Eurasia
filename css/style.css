@@ -3322,6 +3322,7 @@ h6 {
 .about-content {
   width: 70%;
   margin: 0 auto;
+  
 }
 
 .about-content h1 {
@@ -3373,6 +3374,22 @@ h6 {
 }
 .table-heading {
   color: #d64a34;
+}
+
+.carousel-caption {
+  top: 50%;
+  transform: translateY(-50%);
+  bottom: initial;
+  font-size: 180%;
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 14px;
+  
+}
+
+.aoe-home {
+  background: #e6e6e6;
+  height: 100vh;
+  padding: 45px;
 }
 /*---------------------------------------------------- */
 
